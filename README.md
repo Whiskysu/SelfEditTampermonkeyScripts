@@ -1,0 +1,2 @@
+# SelfEditTampermonkeyScripts
+初次编写油猴脚本，感觉访问arxiv速度太慢，现成脚本也没找到，于是借鉴他人代码和方法组成了该脚本。
