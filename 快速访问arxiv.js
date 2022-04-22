@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         快速访问arxiv
-// @namespace    https://github.com/wangrongding/ding-script
+// @namespace    https://github.com/Whiskysu/SelfEditTampermonkeyScripts/
 // @version      0.2
 // @description  快速打开arxiv网页，解决访问慢问题，由于该中文地址收录较慢，较新的文献无效。
 // @author       suyiranzhi
-// @homeurl      https://github.com/wangrongding/ding-script/githubEditOnline.js
+// @homeurl      https://github.com/Whiskysu/SelfEditTampermonkeyScripts/blob/main/%E5%BF%AB%E9%80%9F%E8%AE%BF%E9%97%AEarxiv.js
 // @license      MIT
 // @match      https://*.arxiv.org/*/*
-// @icon         http://ww1.sinaimg.cn/large/75314ac9ly1gsoywgjgl3j205k05kaab.jpg
+// @icon         https://github.com/Whiskysu/Su_Picture_Bed/blob/master/b1b72ab18358a6060870f6c741e5f50a_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg
 // @grant        none
 // ==/UserScript==
 
@@ -17,8 +17,8 @@
   btn.innerText = "快速arxiv";
   btn.style.cssText = `
     position: fixed;
-    bottom: 100px;
-    right: 100px;
+    bottom: 182px;
+    left: 625px;
     // position: relative;
     color:white;
     color-scheme:dark;
